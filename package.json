@@ -1,10 +1,10 @@
 {
-  "name": "router",
+  "name": "angular-router-demo",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --port=3100 --open",
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
